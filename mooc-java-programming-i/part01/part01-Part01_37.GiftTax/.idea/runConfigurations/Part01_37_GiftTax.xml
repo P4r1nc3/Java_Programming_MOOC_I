@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_37.GiftTax" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="GiftTax" />
+    <module name="Part01_37.GiftTax" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_15.DifferentTypesOfInput" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="DifferentTypesOfInput" />
+    <module name="Part01_15.DifferentTypesOfInput" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part01_19.AdditionFormula" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="AdditionFormula" />
+    <module name="Part01_19.AdditionFormula" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
