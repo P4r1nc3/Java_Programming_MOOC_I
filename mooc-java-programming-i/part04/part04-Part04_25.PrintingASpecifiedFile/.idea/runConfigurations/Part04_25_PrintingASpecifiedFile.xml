@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part04_25.PrintingASpecifiedFile" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="PrintingASpecifiedFile" />
+    <module name="Part04_25.PrintingASpecifiedFile" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
