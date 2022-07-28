@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_07.RememberTheseNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RememberTheseNumbers" />
+    <module name="Part03_07.RememberTheseNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

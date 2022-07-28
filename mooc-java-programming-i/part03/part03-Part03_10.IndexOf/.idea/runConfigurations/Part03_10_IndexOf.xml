@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_10.IndexOf" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="IndexOf" />
+    <module name="Part03_10.IndexOf" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

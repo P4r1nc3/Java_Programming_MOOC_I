@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_21.PrintNeatly" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="ArrayPrinter" />
+    <module name="Part03_21.PrintNeatly" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

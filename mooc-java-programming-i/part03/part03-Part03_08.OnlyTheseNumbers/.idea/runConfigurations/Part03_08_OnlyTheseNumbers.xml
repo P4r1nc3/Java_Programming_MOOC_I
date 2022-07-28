@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part03_08.OnlyTheseNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="OnlyTheseNumbers" />
+    <module name="Part03_08.OnlyTheseNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
