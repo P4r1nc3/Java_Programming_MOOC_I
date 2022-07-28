@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_33.StarSign" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="StarSign" />
+    <module name="Part02_33.StarSign" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

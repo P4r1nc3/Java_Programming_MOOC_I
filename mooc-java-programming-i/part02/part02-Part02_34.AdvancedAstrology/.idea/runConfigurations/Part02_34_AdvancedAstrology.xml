@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_34.AdvancedAstrology" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="AdvancedAstrology" />
+    <module name="Part02_34.AdvancedAstrology" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

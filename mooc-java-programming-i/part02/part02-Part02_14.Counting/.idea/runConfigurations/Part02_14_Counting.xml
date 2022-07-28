@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_14.Counting" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Counting" />
+    <module name="Part02_14.Counting" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

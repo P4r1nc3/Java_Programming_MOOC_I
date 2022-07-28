@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_08.NumberOfNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="NumberOfNumbers" />
+    <module name="Part02_08.NumberOfNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

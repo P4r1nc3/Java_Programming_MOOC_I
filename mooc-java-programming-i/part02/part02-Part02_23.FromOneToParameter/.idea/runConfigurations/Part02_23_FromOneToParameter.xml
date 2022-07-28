@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_23.FromOneToParameter" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="FromOneToParameter" />
+    <module name="Part02_23.FromOneToParameter" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

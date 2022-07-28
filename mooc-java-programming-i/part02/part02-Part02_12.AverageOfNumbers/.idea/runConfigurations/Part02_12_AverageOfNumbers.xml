@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_12.AverageOfNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="AverageOfNumbers" />
+    <module name="Part02_12.AverageOfNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_22.Reprint" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="Reprint" />
+    <module name="Part02_22.Reprint" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

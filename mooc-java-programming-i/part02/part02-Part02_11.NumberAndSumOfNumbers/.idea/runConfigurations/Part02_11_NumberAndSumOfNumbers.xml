@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part02_11.NumberAndSumOfNumbers" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="NumberAndSumOfNumbers" />
+    <module name="Part02_11.NumberAndSumOfNumbers" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
