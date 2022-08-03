@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Part07_07.RecipeSearch" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="RecipeSearch" />
+    <module name="Part07_07.RecipeSearch" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
